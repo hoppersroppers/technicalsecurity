@@ -8,8 +8,7 @@ This course will not teach you how to be a hacker or a pentester but is the firs
 
 This site is generated from a course hosted at:
 
-[https://www.roppers.org/courses/technicalsecurity](https://www.roppers.org/courses/technicalsecurity)
-
+[https://www.roppers.org/courses/technical-security-fundamentals]
 
 All the material is available here, but in order to get the full benefits of our course we recommend registering so that we can track your progress, grade your submissions, and provide feedback and support when you need it.
 
