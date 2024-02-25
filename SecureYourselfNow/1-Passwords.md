@@ -1,22 +1,22 @@
 # Passwords
 
-<iframe allowfullscreen class="fr-draggable" height="360" src="https://www.youtube.com/embed/VbcyLjblM_k?wmode=opaque" width="640"></iframe>
+# <iframe allowfullscreen height="360" src="https://www.youtube.com/embed/VbcyLjblM_k?wmode=opaque" width="640"></iframe>
 
 # HaveIBeenPwned
 
-As a fun fact, you are orders of magnitude more likely to have your
-password stolen in a data breach than by a bad guy sniffing your traffic
-or breaking into your computer. As mentioned before, when people get
-hacked on the internet, they are incidental victims much more often than
-targeted. When a site is breached and the emails and passwords leak
-themselves onto the net, the next thing that happens is called password
-stuffing, where scripts will attempt to login to 1000s of sites using
-all of those email and password combos. If it works, you just lost your
-account. This means that reusing a password, no matter how "strong" it
-is, is only as secure as the least secure site that you use that
-password on. If they get breached, your password is out there on the
-internet, and if you used the same password for your email, you might be
-about to have a very bad day.
+You probably know this already, you are orders of magnitude more likely
+to have your password stolen in a data breach than by a bad guy sniffing
+your traffic or breaking into your computer. As mentioned before, when
+people get hacked on the internet, they are incidental victims much more
+often than targeted. When a site is breached and the emails and
+passwords leak themselves onto the net, the next thing that happens is
+called password stuffing, where scripts will attempt to login to 1000s
+of sites using all of those email and password combos. If it works, you
+just lost your account. This means that reusing a password, no matter
+how "strong" it is, is only as secure as the least secure site that you
+use that password on. If they get breached, your password is out there
+on the internet, and if you used the same password for your email, you
+might be about to have a very bad day.
 
 So before we tackle the problem of password reuse, it's time for you to
 check if any of your accounts have been found in a publicly available

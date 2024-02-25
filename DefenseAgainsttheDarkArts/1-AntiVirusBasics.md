@@ -30,5 +30,11 @@ Task:
     <a href="https://www.computerhope.com/issues/ch001738.htm"
     rel="noopener"
     target="_blank">https://www.computerhope.com/issues/ch001738.htm</a>
-2.  Make sure Windows Defender is running, because it is built into your
-    computer and is really, really good.
+2.  Download Malwarebytes and run it.
+    <a href="https://www.malwarebytes.com/mwb-download/" rel="noopener"
+    target="_blank">https://www.malwarebytes.com/mwb-download/</a>
+3.  Install Windows Defender, because it is built into your computer and
+    really, really good. If it is installed, make sure it is running.
+4.  Uninstall Malwarebytes. You don't need it around all the time, just
+    download an run it whenever you get on a new computer and then once
+    every couple months just to make sure.

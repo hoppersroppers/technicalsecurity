@@ -1,4 +1,4 @@
-# Don't Get Hacked
+# How to Help Others Be Safe Online
 
 # Weaponization/Delivery/Exploitation
 

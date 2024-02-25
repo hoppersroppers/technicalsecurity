@@ -3,76 +3,59 @@
 
 ## Secure Yourself Now
 
-* [Intro](SecureYourselfNow/0-Intro.md)
+* [Introduction](SecureYourselfNow/0-Introduction.md)
 * [Passwords](SecureYourselfNow/1-Passwords.md)
 * [Who is Tracking You](SecureYourselfNow/2-WhoisTrackingYou.md)
 * [Update Your Computer and Scan](SecureYourselfNow/3-UpdateYourComputerandScan.md)
-* [Support Roppers](SecureYourselfNow/4-SupportRoppers.md)
-* [Join our Chat Rooms](SecureYourselfNow/5-JoinourChatRooms.md)
+* [Updating Your Lab](SecureYourselfNow/4-UpdatingYourLab.md)
+* [Join our Chat Rooms](SecureYourselfNow/6-JoinourChatRooms.md)
 
-## Risk
+## Passwords
 
-* [CIANA](Risk/0-CIANA.md)
-* [Risk](Risk/1-Risk.md)
-* [Threat Modeling](Risk/2-ThreatModeling.md)
-* [Your Threat Model](Risk/3-YourThreatModel.md)
-
-## Real World
-
-* [People You Know](RealWorld/0-PeopleYouKnow.md)
-* [Data Minimization](RealWorld/1-DataMinimization.md)
-* [OPSEC and Compartmentalization](RealWorld/2-OPSECandCompartmentalization.md)
-* [Dox Yourself First](RealWorld/3-DoxYourselfFirst.md)
-
-## Passwords and Authentication
-
-* [Authentication Design](PasswordsandAuthentication/0-AuthenticationDesign.md)
-* [Password Complexity](PasswordsandAuthentication/1-PasswordComplexity.md)
-* [Password Manager](PasswordsandAuthentication/2-PasswordManager.md)
-* [Hashing](PasswordsandAuthentication/3-Hashing.md)
-* [Two Factor Authentication](PasswordsandAuthentication/4-TwoFactorAuthentication.md)
-* [Security Questions and Account Resets](PasswordsandAuthentication/5-SecurityQuestionsandAccountResets.md)
-* [Outdated Extensions and Permissions](PasswordsandAuthentication/6-OutdatedExtensionsandPermissions.md)
-* [Phishing](PasswordsandAuthentication/7-Phishing.md)
-* [Miscellaneous](PasswordsandAuthentication/8-Miscellaneous.md)
-
-## Networks
-
-* [Intro to Hostile Networks](Networks/0-IntrotoHostileNetworks.md)
-* [Protect Your IP Address](Networks/1-ProtectYourIPAddress.md)
-* [IP Protections](Networks/2-IPProtections.md)
-* [Encryption](Networks/3-Encryption.md)
-* [Metadata](Networks/4-Metadata.md)
-* [Sooo VPNs](Networks/5-SoooVPNs.md)
+* [Hashing](Passwords/0-Hashing.md)
+* [Cracking Passwords](Passwords/1-CrackingPasswords.md)
 
 ## How Hacking Works
 
-* [Cyber Killchain](HowHackingWorks/0-CyberKillchain.md)
-* [](HowHackingWorks/1-.md)
-* [Job Roles  Red vs Blue](HowHackingWorks/2-JobRolesRedvsBlue.md)
+* [Network Architecture Notes](HowHackingWorks/0-NetworkArchitectureNotes.md)
+* [Cyber Killchain](HowHackingWorks/1-CyberKillchain.md)
+* [PostExploitation](HowHackingWorks/2-PostExploitation.md)
+* [Malware Types](HowHackingWorks/3-MalwareTypes.md)
+* [Job Roles  Red vs Blue](HowHackingWorks/4-JobRolesRedvsBlue.md)
+* [Phishing Case Study](HowHackingWorks/5-PhishingCaseStudy.md)
+* [ManMachine in the Middle](HowHackingWorks/6-ManMachineintheMiddle.md)
+
+## Real World
+
+* [Linux Password Reset](RealWorld/0-LinuxPasswordReset.md)
+* [Windows Password Reset](RealWorld/1-WindowsPasswordReset.md)
+* [Technical Attacks](RealWorld/2-TechnicalAttacks.md)
 
 ## Defense Against the Dark Arts
 
 * [How to Tell if You are Hacked](DefenseAgainsttheDarkArts/0-HowtoTellifYouareHacked.md)
 * [AntiVirus Basics](DefenseAgainsttheDarkArts/1-AntiVirusBasics.md)
 * [Threat Hunting Basics](DefenseAgainsttheDarkArts/2-ThreatHuntingBasics.md)
+* [Linux Network Hunting Lab](DefenseAgainsttheDarkArts/3-LinuxNetworkHuntingLab.md)
+* [Linux Process Hunting](DefenseAgainsttheDarkArts/4-LinuxProcessHunting.md)
+* [Windows Network Threat Hunting](DefenseAgainsttheDarkArts/5-WindowsNetworkThreatHunting.md)
+* [Windows Process Hunting](DefenseAgainsttheDarkArts/6-WindowsProcessHunting.md)
+* [Malware Removal](DefenseAgainsttheDarkArts/7-MalwareRemoval.md)
+
+## The Dark Arts
+
+* [Attacker Mindset](TheDarkArts/0-AttackerMindset.md)
+* [Responsible Offensive Security](TheDarkArts/1-ResponsibleOffensiveSecurity.md)
+* [Recon and Enumeration](TheDarkArts/2-ReconandEnumeration.md)
+* [Baby Steps](TheDarkArts/3-BabySteps.md)
+* [Linux Privesc](TheDarkArts/4-LinuxPrivesc.md)
+* [Windows Privesc](TheDarkArts/5-WindowsPrivesc.md)
+* [Baby Metasploit](TheDarkArts/6-BabyMetasploit.md)
 
 ## Securing Yourself
 
 * [Dont Get Hacked](SecuringYourself/0-DontGetHacked.md)
-* [How to Help Others Be Safe Online](SecuringYourself/1-HowtoHelpOthersBeSafeOnline.md)
-* [Technical Fundamentals Course](SecuringYourself/2-TechnicalFundamentalsCourse.md)
-
-## Security Principle Library
-
-* [Immutable Laws](SecurityPrincipleLibrary/0-ImmutableLaws.md)
-* [Pyramid of Pain](SecurityPrincipleLibrary/1-PyramidofPain.md)
-* [Diamond Model](SecurityPrincipleLibrary/2-DiamondModel.md)
-* [Domains of Attack](SecurityPrincipleLibrary/3-DomainsofAttack.md)
-* [Methods of Attack ](SecurityPrincipleLibrary/4-MethodsofAttack.md)
-* [Advanced Persistent Threats](SecurityPrincipleLibrary/5-AdvancedPersistentThreats.md)
-* [Mechanisms of Attack](SecurityPrincipleLibrary/6-MechanismsofAttack.md)
-* [Lampson Principles in the Real World](SecurityPrincipleLibrary/7-LampsonPrinciplesintheRealWorld.md)
-* [Risk Assessment](SecurityPrincipleLibrary/8-RiskAssessment.md)
-* [Mickens This World of Ours](SecurityPrincipleLibrary/9-MickensThisWorldofOurs.md)
-* [Compartmentalization](SecurityPrincipleLibrary/10-Compartmentalization.md)
+* [Securing Windows According to Taylor Swift](SecuringYourself/1-SecuringWindowsAccordingtoTaylorSwift.md)
+* [Securing Linux According to Dennis](SecuringYourself/2-SecuringLinuxAccordingtoDennis.md)
+* [Supply Chain Attacks](SecuringYourself/3-SupplyChainAttacks.md)
+* [How to Help Others Be Safe Online](SecuringYourself/4-HowtoHelpOthersBeSafeOnline.md)

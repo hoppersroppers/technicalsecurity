@@ -1,11 +1,13 @@
 # Who is Tracking You?
 
-<iframe allowfullscreen class="fr-draggable" height="360" src="https://www.youtube.com/embed/f5O5aXektCw?wmode=opaque" width="640"></iframe>  
-
-  
+<iframe allowfullscreen height="360" src="https://www.youtube.com/embed/f5O5aXektCw?wmode=opaque" width="640"></iframe>  
 
 A famous quote about the internet is “If a service is free, the product
 is you”. this applies from social media to news sites to free antivirus.
+(If you're wondering why this site is free, I'm using all my students to
+improve this curriculum so that I can find a way to become a millionaire
+someday. 
+
 Silicon Valley is built on advertising money, and they make their money
 by targeting advertisements. The more targeted, the more money they can
 charge. It isn't always advertisements though. Anything can be turned
@@ -14,7 +16,7 @@ behavioral feature, or things like what you buy and what malware you
 download.
 
 You probably have heard of cookies, but if you want a little bit more
-information,<a href="http://computer.howstuffworks.com/cookie.htm" rel="noopener"
+information, <a href="http://computer.howstuffworks.com/cookie.htm" rel="noopener"
 target="_blank">here's a link</a>. If I had to guess, you probably have
 also heard you should be running an ad-blocker. If you still aren't and
 need some more convincing, [check out this

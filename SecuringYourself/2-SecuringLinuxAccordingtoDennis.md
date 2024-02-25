@@ -1,4 +1,4 @@
-# Don't Get Hacked
+# Securing Linux, According to Dennis
 
 # Weaponization/Delivery/Exploitation
 

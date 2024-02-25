@@ -1,8 +1,6 @@
 # Update Your Computer and Scan
 
-<iframe allowfullscreen class="fr-draggable" height="360" src="https://www.youtube.com/embed/qnK9IHXhiqw?wmode=opaque" width="640"></iframe>  
-
-  
+<iframe allowfullscreen height="360" src="https://www.youtube.com/embed/qnK9IHXhiqw?wmode=opaque" width="640"></iframe>  
 
 No seriously, stop pressing snooze on that update button. The single
 best thing you can do for your computer, and all the computers you are
@@ -31,5 +29,5 @@ on it but Windows Defender isn't removing it, run
 <a href="https://www.malwarebytes.com/mwb-download/" rel="noopener"
 target="_blank">MalwareBytes</a> and see what if anything is detected.
 I'm a huge fan of their free product but don't leave it constantly
-running in the background. If MalwareBytes and Windows combined say
-you're good, you're probably good. No need to get paranoid.
+running in the background. If MalwareBytes and Windows say you're good,
+you're probably good.
